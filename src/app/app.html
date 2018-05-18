@@ -1,0 +1,27 @@
+<ion-menu  [content]="content">
+  <ion-header>
+    <ion-toolbar>
+      <ion-title>Menu</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <ion-content style="background:#f0c24b;">
+    <ion-list class="spt-menu">
+      <button menuClose ion-item *ngFor="let p of pages" (click)="openPage(p)">
+        {{p.title}}
+      </button>
+      
+      <button class="side-menu-item" ion-item (click)="shareApp()">
+         Share App
+      </button>
+
+      <button class="side-menu-item" ion-item (click)="rateApp()">
+        Rate App
+        </button>
+    </ion-list>
+  </ion-content>
+
+</ion-menu>
+
+<!-- Disable swipe-to-go-back because it's poor UX to combine STGB with side menus -->
+<ion-nav [root]="rootPage" #content swipeBackEnabled="false"></ion-nav>

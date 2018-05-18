@@ -1,0 +1,66 @@
+.label-md {
+  margin: 0;
+}
+
+.list1{
+  border: 1px solid#000;
+  padding: 12px;
+  border-radius: 3px;
+  text-align: center;
+ }
+
+quiz-list {
+    
+ 
+    .tabc
+    {
+      background-color: #079174;
+     //  margin-bottom: 15px;
+     //  padding-top: 13px;
+     //  padding-left: 13px;
+     padding: 5%;
+     //  color: white;
+      font-size: large;
+      font-weight: bold;
+     //  color: whitesmoke;
+      text-align: center;
+      width: 100%;
+      min-height: 45px;
+      height: auto;
+      font-family: Arial;
+      border-radius: 10%;
+      color: #000000;
+      background-color: #cccccc;
+     margin-bottom: 15px;
+     padding-left: 15px;
+    
+    }
+    .bar-button-md-default {
+        color: white;
+        background-color: transparent;
+      }
+      
+      .toolbar-title-md {
+        padding: 0 12px;
+        font-size: 2rem;
+        font-weight: 500;
+        color: white;
+      }
+      .toolbar-background-md {
+       border-color: #b2b2b2;
+       background: #5d7784;
+     }
+      .back-button.show-back-button {
+        display: inline-block;
+        color: white;
+    }
+    ion-content {
+     background-image: url('/assets/icon/back.png');
+     background-size: 100% 100%;
+     background-repeat: no-repeat;
+   }
+
+   
+    
+    }
+    

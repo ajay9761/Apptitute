@@ -1,0 +1,2087 @@
+{
+        "id": 1,
+        "questions": [{
+                "id":1,
+                "questionText": "Twice the speed of a boat downstream is equal to thrice the speed upstream. The ratio of its speed in still water to the speed of current is",
+                "answers": [{
+                        "answer": "1 : 5",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1 : 3",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "5 : 1",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "2 : 3",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"5 : 1"
+            },
+            {
+                "id":2,
+                "questionText": "A person has a chemical of Rs. 25 per litre. In what ratio should water be mixed with that chemical so that after selling the mixture at Rs. 20/litre he may get a profit of 25%?",
+                "answers": [{
+                        "answer": "13 : 16",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "12 : 15",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "9 : 16",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "19 : 22",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"9 : 16"
+            },
+            {
+                "id":3,
+                "questionText": "The difference between the simple interest and compound interest on a certain sum of money for 2 years at 15% p. a. is Rs. 45. Find the sum.",
+                "answers": [{
+                        "answer": "Rs. 2700",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Rs. 2500",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Rs. 2000",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "None of these",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"Rs. 2000"
+            },
+            {
+                "id":4,
+                "questionText": "How many terms are there in an A.P. whose first and fifth terms are -14 and 2, respectively, and the sum of terms is 40?",
+                "answers": [{
+                        "answer": "15",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "10",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "5",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "20",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"10"
+            },
+            {
+                "id":5,
+                "questionText": "In a class, 50 students play cricket, 20 students play football and 10 play both cricket and football. How many play at least one of these two games?",
+                "answers": [{
+                        "answer": "10",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "80",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "50",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "60",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"60"
+            },
+            {
+                "id":6,
+                "questionText": "A bottle is full of Dettol. One-third of it is taken out and then an equal amount of water is poured into the bottle to fill it. This operation is done four times. Find the final ratio of dettol and water in the bottle.",
+                "answers": [{
+                        "answer": "13 : 55",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "20 : 74",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "16 : 65",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "10 : 48",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"16 : 65"
+            },
+            {
+                "id":7,
+                "questionText": "In a survey of defaulted payments of electrical bills of a residential complex of 125 houses, it is found that 50 houses defaulted on their payment of electrical bills in January, 60 in February and 40 in March. Houses can default in consecutive months only. 20 defaulted in January and February. 10 defaulted in February and March. How many houses defaulted in all the 3 months?",
+                "answers": [{
+                        "answer": "3",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "5",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "7",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "9",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"5"
+            },
+            {
+                "id":8,
+                "questionText": "A person standing on the bank of a river observes that the angle of elevation of the top of a tree on the opposite bank of the river is 60° and when he retires 40 metres away from the tree the angle of elevation becomes 30°. The breadth of the river is :",
+                "answers": [{
+                        "answer": "40 m",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "20 m",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "30 m",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "60 m",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"20 m"
+            },
+            {
+                "id":9,
+                "questionText": "India plays two matches each with West Indies and Australia. In any match the probabilities of India getting points 0, 1, 2 are 0.45, 0.05 and 0.50 respectively. Assuming that outcomes are independent, the probability of India getting at least 7 points is :",
+                "answers": [{
+                        "answer": "0.8750",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "0.0624",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "0.0875",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "0.0250",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"0.0875"
+            },
+            {
+                "id":10,
+                "questionText": "Three persons work independently on a problem. If the respective probabilities that they will solve it are 1/3, 1/4 and 1/5, then the probability that none can solve it is :",
+                "answers": [{
+                        "answer": "1/5",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1/3",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "2/5",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "None of these",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"2/5"
+            },
+            {
+                "id":11,
+                "questionText": "In a race of 600 metres, A can beat B by 60 metres and in a race of 500 metres, B can beat C by 50 metres. By how many metres will A beat C in a race of 400 metres?",
+                "answers": [{
+                        "answer": "76 metres",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "80 metres",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "70 metres",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "84 metres",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"76 metres"
+            },
+            {
+                "id":12,
+                "questionText": "A man travelled a distance of 80 km in 7 hours partly on foot at the rate of 8 km per hour and partly on bicycle at 16 km per hour. Find the distance travelled on foot.",
+                "answers": [{
+                        "answer": "26 km",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "32 km",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "30 km",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "28 km",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"32 km"
+            },
+            {
+                "id":13,
+                "questionText": "If 20 men can build a wall 112 metres long in 6 days, what length of a similar wall can be built by 25 men in 3 days?",
+                "answers": [{
+                        "answer": "65mtr",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "52mtr",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "70mtr",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "78mtr",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"70mtr"
+            },
+            {
+                "id":14,
+                "questionText": "If the compound interest on a certain sum of money for 3 years at 10% per annum be Rs. 993, what would be the simple interest?",
+                "answers": [{
+                        "answer": "Rs. 880",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Rs. 890",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Rs. 895",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Rs. 900",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"Rs. 900"
+            },
+            {
+                "id":15,
+                "questionText": "What annual installment will discharge a debt of Rs. 4600 due in 4 years at 10% simple interest?",
+                "answers": [{
+                        "answer": "1000",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1030",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1100",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "None of these",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"1000"
+            },
+            {
+                "id":16,
+                "questionText": "A number whose fifth part increased by 5 is equal to its fourth part diminished by 5, is",
+                "answers": [{
+                        "answer": "160",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "180",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "200",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "220",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"200"
+            },
+            {
+                "id":17,
+                "questionText": "A dishonest dealer professes to sell his goods at the cost price but uses a weight of 800gm instead of 1kg. Find his real gain percent.",
+                "answers": [{
+                        "answer": "25%",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "20%",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "30%",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "None of these",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"25%"
+            },
+            {
+                "id":18,
+                "questionText": "A sum of money lent out at simple interest amounts to Rs. 720 after 2 years and to Rs. 1,020 after a further period of 5 years. The sum and the rate % are",
+                "answers": [{
+                        "answer": "Rs. 500, 5%",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Rs. 400, 15%",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Rs. 600, 10%",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Rs. 700, 20%",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"Rs. 600, 10%"
+            },
+            {
+                "id":19,
+                "questionText": "A train with 90 km/h crosses a bridge in 36 seconds. Another train 100 metres shorter crosses the same bridge at 45 km/h. What is the time taken by the second train to cross the bridge ?",
+                "answers": [{
+                        "answer": "61 seconds",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "63 seconds",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "62 seconds",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "64 seconds",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"64 seconds"
+            },
+            {
+                "id":20,
+                "questionText": "Some students planned a picnic. The budget for food was Rs. 500. But, 5 of them failed to go and thus the cost of food for each member increased by Rs. 5. How many students attended the picnic?",
+                "answers": [{
+                        "answer": "15",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "25",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "20",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "30",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"20"
+            },
+            {
+                "id":21,
+                "questionText": "Find the HCF of 59 , 14?",
+                "answers": [{
+                        "answer": "826",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "2",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "None of these",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"1"
+            },
+            {
+                "id":22,
+                "questionText": "Two people run around circular track and take 42 sec and 30 sec to make one complete round. If they start together after how much amount of time will they meet again in the same place ?",
+                "answers": [{
+                        "answer": "3 min 30 sec",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "4 min 40 sec",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "3 min 20 sec",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "2 min 50 sec",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"3 min 30 sec"
+            },
+            {
+                "id":23,
+                "questionText": "What number should come next ? 173, 196, 219, 242, _____",
+                "answers": [{
+                        "answer": "265",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "263",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "263",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "264",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"265"
+            },
+            {
+                "id":24,
+                "questionText": "What should come in place of _____ in the below number series? 173, 149, 125, 101, _____",
+                "answers": [{
+                        "answer": "76",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "75",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "79",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "77",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"77"
+            },
+            {
+                "id":25,
+                "questionText": "Find the HCF of 59 , 12?",
+                "answers": [{
+                        "answer": "708",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "2",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "3",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"1"
+            },
+            {
+                "id":26,
+                "questionText": "Find the LCM of 42 , 20?",
+                "answers": [{
+                        "answer": "504",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "360",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1680",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "420",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"420"
+            },
+            {
+                "id":27,
+                "questionText": "It was Thursday on 2nd Jan 1993. What day of the week will be on 15th March 1993?",
+                "answers": [{
+                        "answer": "Monday",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Wednesday",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Friday",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Saturday",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"Saturday"
+            },
+            {
+                "id":28,
+                "questionText": "anuary 1, 2008 is Tuesday. What day of the week lies on January 1, 2009? ",
+                "answers": [{
+                        "answer": "Monday",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Wednesday",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Thursday",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Sunday",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"Thursday"
+            },
+            {
+                "id":29,
+                "questionText": "Which of the following is not a leap year?",
+                "answers": [{
+                        "answer": "700",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "800",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1200",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "2000",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"700"
+            },
+            {
+                "id":30,
+                "questionText": "On what dates on April 2001 did Wednesday fall?",
+                "answers": [{
+                        "answer": "1st , 8th, 15th, 22nd , 29th",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "2nd , 9th , 16th , 23rd , 30th",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "3rd , 10th , 17th , 24th",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "4th , 11th , 18th , 25th",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"4th , 11th , 18th , 25th"
+            },
+            {
+                "id":31,
+                "questionText": "Today is Monday. After 61 days, it will be :",
+                "answers": [{
+                        "answer": "Wednesday",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Saturday",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Tuesday",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Thursday",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"Saturday"
+            },
+            {
+                "id":32,
+                "questionText": "How many days are there in k weeks and k days ?",
+                "answers": [{
+                        "answer": "7k2",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "7(k+1)",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "7k + 1",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "8k",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"8k"
+            },
+            {
+                "id":33,
+                "questionText": "A family consists of two grandparents, two parents and three grandchildren. The average age of the grandparents is 67 years, that of the parents is 35 years and that of the grandchildren is 6 years. What is the average age of the family? ",
+                "answers": [{
+                        "answer": "28 ( 4 / 7 ) years",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "31 ( 5 / 7) year",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "32 ( 1 / 7 ) years",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Cannot be determined",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"31 ( 5 / 7) year"
+            },
+            {
+                "id":34,
+                "questionText": "The average age of a group of 10 students was 14. The average age increased by 1 years when two new students joined the group. What is the average age of the two new students who joined the group?",
+                "answers": [{
+                        "answer": "20",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "21",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "21.5",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "22",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"20"
+            },
+            {
+                "id":35,
+                "questionText": "The average age of a group of 10 students was 12. The average age increased by 2 years when two new students joined the group. What is the average age of the two new students who joined the group ?",
+                "answers": [{
+                        "answer": "25",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "24",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "25.5",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "26",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"24"
+            },
+            {
+                "id":36,
+                "questionText": "Can you find the answer for the below equation : 146 / 372 * 362 + 367 - 358 ",
+                "answers": [{
+                        "answer": "151.08",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "148.08",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "155.08",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "157.08",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"151.08"
+            },
+            {
+                "id":37,
+                "questionText": "Find the cost of Rs. 4500, 7% stock at 70",
+                "answers": [{
+                        "answer": "3255",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "3150",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "4500",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "4250",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"3150"
+            },
+            {
+                "id":38,
+                "questionText": "Vinu buys Rs. 40 shares paying 9 % dividend. He wants to have an interest of 12% of his money. Find the market value of each share",
+                "answers": [{
+                        "answer": "30",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "25",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "32",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "35",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"30"
+            },
+            {
+                "id":39,
+                "questionText": "A man invested Rs. 1552 in a stock at 97 to obtain an income of Rs. 128. The dividend from the stock is:",
+                "answers": [{
+                        "answer": "9%",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "6%",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "7.50%",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "8%",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"8%"
+            },
+            {
+                "id":40,
+                "questionText": "Arun buys 800 shares, each par value Rs. 10 of a company which pays an annual dividend of 15% at such a price that he gets 12% on his investment. Find the market value of a share.",
+                "answers": [{
+                        "answer": "12.5",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "12",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "14.5",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "15",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"12.5"
+            },
+            {
+                "id":41,
+                "questionText": "By investing Rs. 1620 in 8 % stock, John earns Rs. 135. Find the quote of the stock?",
+                "answers": [{
+                        "answer": "92",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "98",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "96",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "94",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"96"
+            },
+            {
+                "id":42,
+                "questionText": "A 6% stock yields 8%. Find the market value of the stock.",
+                "answers": [{
+                        "answer": "65 Rs.",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "75 Rs.",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "20 Rs.",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "48 Rs.",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"75 Rs."
+            },
+            {
+                "id":43,
+                "questionText": "In order to obtain an income of Rs. 650 from 10% stock at Rs. 96, one must make an investment of:",
+                "answers": [{
+                        "answer": "6240",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "6340",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "6440",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "6640",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"6240"
+            },
+            {
+                "id":44,
+                "questionText": "Find the cost of purchase of Rs. 1000; 12% stock at 10 discount.",
+                "answers": [{
+                        "answer": "1100",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1200",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1120",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "900",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"900"
+            },
+            {
+                "id":45,
+                "questionText": "A man buys Rs. 20 shares paying 9% dividend. The man wants to have an interest of 12% on his money. The market value of each share is",
+                "answers": [{
+                        "answer": "12",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "15",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "18",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "21",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"15"
+            },
+            {
+                "id":46,
+                "questionText": " What is the total donation made by P?",
+                "answers": [{
+                        "answer": "Rs 55,000",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Rs 65,000",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Rs 75,000",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Rs 80,000",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"Rs 80,000"
+            },
+            {
+                "id":47,
+                "questionText": "Find the share of the third son.",
+                "answers": [{
+                        "answer": "Rs 80,000",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Rs 1,00,000",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Rs 1,20,000",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Rs 1,50,000",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"Rs 1,20,000"
+            },
+            {
+                "id":48,
+                "questionText": "The total age of some 7 years old and some 5 years old children is 60 years. If I have to select a team from these children such that their total age is 48 years, In how many ways can it be done?",
+                "answers": [{
+                        "answer": "3",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "2",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "4",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"1"
+            },
+            {
+                "id":49,
+                "questionText": "Two pipes can fill a tank in 20 and 24 minutes respectively and a waste pipe can empty 3 gallons per minute. All the three pipes working together can fill the tank in 15 minutes. The capacity of the tank in gallons is",
+                "answers": [{
+                        "answer": "100",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "110",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "120",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "140",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"120"
+            },
+            {
+                "id":50,
+                "questionText": "39 persons can repair a road in 12 days, working 5 hours a day. In how many days will 30 persons, working 6 hours a day, complete the work?",
+                "answers": [{
+                        "answer": "10",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "13",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "14",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "15",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"13"
+            },
+            {
+                "id":51,
+                "questionText": "The average wages of a worker during a fortnight comprising 15 consecutive working days was Rs.90 per day. During the first 7 days, his average wages was Rs.87/day and the average wages during the last 7 days was Rs.92 /day. What was his wage on the $8^{th}$ day?",
+                "answers": [{
+                        "answer": "83",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "92",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "90",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "97",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"97"
+            },
+            {
+                "id":52,
+                "questionText": "When a student weighing 45 kgs left a class, the average weight of the remaining 59 students increased by 200 g. What is the average weight of the remaining 59 students?",
+                "answers": [{
+                        "answer": "57",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "56.8",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "58.2",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "52.2",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"57"
+            },
+            {
+                "id":53,
+                "questionText": "The average age of a family of 5 members is 20 years. If the age of the youngest member be 10 years then what was the average age of the family at the time of the birth of the youngest member?",
+                "answers": [{
+                        "answer": "13.5",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "14",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "15",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "12.5",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"12.5"
+            },
+            {
+                "id":54,
+                "questionText": "A person starting with 64 rupees and making 6 bets, wins three times and loses three times, the wins and loses occurring in random order. The chance for a win is equal to the chance for a loss. If each wager is for half the money remaining at the time of the bet, then the final result is:",
+                "answers": [{
+                        "answer": "a gain of Rs 27",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "a loss of Rs 37",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "neither gain nor a loss",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "None of these",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"a loss of Rs 37"
+            },
+            {
+                "id":55,
+                "questionText": "A bag contains 3 white balls and 2 black balls. Another bag contains 2 white and 4 black balls. A bag and a ball are picked random. The probability that the ball will be white is:",
+                "answers": [{
+                        "answer": "7/11",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "7/30",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "5/11",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "7/15",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"7/15"
+            },
+            {
+                "id":56,
+                "questionText": "I forgot the last digit of a 7-digit telephone number. If 1 randomly dial the final 3 digits after correctly dialling the first four, then what is the chance of dialling the correct number?",
+                "answers": [{
+                        "answer": "1/1001",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1/1000",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1/999",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1/990",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"1/1000"
+            },
+            {
+                "id":57,
+                "questionText": "A number when divided by a divisor leaves a remainder of 24.When twice the original number is divided by the same divisor, the remainder is 11. What is the value of the divisor?",
+                "answers": [{
+                        "answer": "13",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "59",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "35",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "37",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"37"
+            },
+            {
+                "id":58,
+                "questionText": "The product of 4 consecutive even numbers is always divisible by:",
+                "answers": [{
+                        "answer": "600",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "768",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "864",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "384",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"384"
+            },
+            {
+                "id":59,
+                "questionText": "What is the minimum number of square marbles required to tile a floor of length 5 metres 78 cm and width 3 metres 74 cm?",
+                "answers": [{
+                        "answer": "176",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "187",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "540",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "748",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"187"
+            },
+            {
+                "id":60,
+                "questionText": "Two cogged wheels of which one has 32 cogs and other 54 cogs, work into each other. If the latter turns 80 times in three quarters of a minute, how often does the other turn in 8 seconds?",
+                "answers": [{
+                        "answer": "48",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "24",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "38",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "None of these",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"24"
+            },
+            {
+                "id":61,
+                "questionText": "A sum of Rs.312 was divided among 100 boys and girls in such a way that the boy gets Rs.3.60 and each girl Rs.2.40 the number of girls is",
+                "answers": [{
+                        "answer": "35",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "40",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "45",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "50",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"40"
+            },
+            {
+                "id":62,
+                "questionText": "In a mixture 60 litres, the ratio of milk and water 2:1. If the this ratio is to be 1:2, then the quantity of water to be further added is :",
+                "answers": [{
+                        "answer": "20 litres",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "30 litres",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "40 litres",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "60 litres",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"60 litres"
+            },
+            {
+                "id":63,
+                "questionText": "Two numbers are respectively 20% and 50% more than a third number. The ratio of the two numbers is :",
+                "answers": [{
+                        "answer": "2:5",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "3:5",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "4:5",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "5:4",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"4:5"
+            },
+            {
+                "id":64,
+                "questionText": "Walking at the rate of 4 kmph a man cover certain distance in 2 hr 45 min. Running at a speed of 16.5 kmph the man will cover the same distance in.",
+                "answers": [{
+                        "answer": "12 min",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "25 min",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "40 min",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "60 min",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"40 min"
+            },
+            {
+                "id":65,
+                "questionText": "Excluding stoppages, the speed of a bus is 54 kmph and including stoppages, it is 45 kmph. For how many minutes does the bus stop per hour?",
+                "answers": [{
+                        "answer": "4",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "6",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "8",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "None of these",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"None of these"
+            },
+            {
+                "id":66,
+                "questionText": "Two trains starting at the same time from 2 stations 200 km apart and going in opposite direction cross each other at a distance of 110 km from one of the stations. What is the ratio of their speeds?",
+                "answers": [{
+                        "answer": "11:9",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "7:3",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "18:4",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "None of these",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"11:9"
+            },
+            {
+                "id":67,
+                "questionText": "A train covers a distance in 50 min, if it runs at a speed of 48 kmph on an average. The speed at which the train must run to reduce the time of journey to 40 min will be.",
+                "answers": [{
+                        "answer": "45 kmph",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "60 kmph",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "75 kmph",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "None of these",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"60 kmph"
+            },
+            {
+                "id":68,
+                "questionText": "Sachin can cover a distance in 1hr 24 min by covering 2/3 of the distance at 4 kmph and the rest at 5 kmph. The total distance is?",
+                "answers": [{
+                        "answer": "5 km",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "6 km",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "7 km",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "8 km ",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"6 km"
+            },
+            {
+                "id":69,
+                "questionText": "The average of first five multiples of 3 is",
+                "answers": [{
+                        "answer": "8",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "9",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "10",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "11",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"9"
+            },
+            {
+                "id":70,
+                "questionText": "The average of 50 numbers is 30. If two numbers, 35 and 40 are discarded, then the average of the remaining numbers is nearly:",
+                "answers": [{
+                        "answer": "28.32",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "29.68",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "28.78",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "29.27",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"29.68"
+            },
+            {
+                "id":71,
+                "questionText": "The average score of a cricketer for ten matches is 38.9 runs. If the average for the first six matches is 42, then find the average for the last four matches.",
+                "answers": [{
+                        "answer": "33.25",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "33.5",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "34.25",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "35",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"34.25"
+            },
+            {
+                "id":72,
+                "questionText": "A mixture of 150 liters of wine and water contains 20% water. How much more water should be added so that water becomes 25% of the new mixture?",
+                "answers": [{
+                        "answer": "7 liters",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "15 liters",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "10 liters",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "9 liters",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"10 liters"
+            },
+            {
+                "id":73,
+                "questionText": "In what ratio should two varieties of sugar of Rs.18 per kg and Rs.24 kg be mixed together to get a mixture whose cost is Rs.20 per kg?",
+                "answers": [{
+                        "answer": "1:3",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "3:1",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1:2",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "2:1",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"2:1"
+            },
+            {
+                "id":74,
+                "questionText": "A number exceeds by 25 from its 3/8 part. Then the number is?",
+                "answers": [{
+                        "answer": "32",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "35",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "39",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "40",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"40"
+            },
+            {
+                "id":75,
+                "questionText": " The product of two numbers is 120 and the sum of their squares is 289. The sum of the number is:",
+                "answers": [{
+                        "answer": "20",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "23",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "169",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "None of these",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"23"
+            },
+            {
+                "id":76,
+                "questionText": " If doubling a number and adding 20 to the result gives the same answer as multiplying the number by 8 and taking away 4 from the product, the number is :",
+                "answers": [{
+                        "answer": "2",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "3",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "4",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "5",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"4"
+            },
+            {
+                "id":77,
+                "questionText": "Two numbers are such that the ratio between them is 3:5 but if each is increased by 10, the ratio between them becomes 5:7. The numbers are:",
+                "answers": [{
+                        "answer": "3,5",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "7,9",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "13,22",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "15,25",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"15,25"
+            },
+            {
+                "id":78,
+                "questionText": "Divide 50 into two parts so that the sum of their reciprocals is (1/12) :",
+                "answers": [{
+                        "answer": "20,30",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "24,26",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "28,22",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "36,14",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"20,30"
+            },
+            {
+                "id":79,
+                "questionText": "The sum of seven numbers is 235. The average of the first three is 23 and that of the last three is 42. The fourth number is :",
+                "answers": [{
+                        "answer": "40",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "126",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "69",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "195",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"40"
+            },
+            {
+                "id":80,
+                "questionText": "The product of two numbers is 9375 and the quotient, when the larger one is divided by the smaller, is 15. The sum of the numbers is :",
+                "answers": [{
+                        "answer": "380",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "395",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "400",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "425",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"400"
+            }
+        ]
+    }
+
+
+

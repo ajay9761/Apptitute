@@ -1,0 +1,52 @@
+<ion-content>
+    <ion-slides #slides style="height:100%" >
+        <ion-slide class="start-slide">
+          <img style="margin-bottom: -20px;" src="assets/imgs/aptmain.png"/> 
+            <ion-card  (click)="nextSlide()" class="strtCard" style="padding: 8px;font-size:40px;">
+                START QUIZ
+            </ion-card>          
+        </ion-slide>
+    
+        <ion-slide class="rejt-1 " *ngFor="let question of questions; let j = index;" (swipe)="swipeEvent($event)" >
+          <div class="skip">
+              <button ion-button color="primary" (click)="skipQues()" [hidden]="skpBtn">SKIP</button>
+          </div>
+            <div>
+              <div class="dicls"><span>Skip {{nonAttempt}}</span></div>
+              <div class="dicls"><span>Attempted {{attempt}} </span> </div>
+              <div class="dicls"><span>Left {{skip}} </span> </div>
+                <ion-item style="background-color: #fff;margin-top: 5px;margin-bottom: 5px;padding-left: 0;" class="no-bottom-border item">
+                  <h1 text-center color="primary" class="timer-button timer-text">{{timer.displayTime}}</h1>
+                </ion-item>        
+            </div>
+
+            <!-- <button ion-button color="danger" (click)="openRough()">Rough Work</button> -->
+
+          <h6 class="it-6">{{j+1}}- {{question.questionText}}</h6>
+
+          <ion-list no-lines radio-group style="background:none!important;">
+            <ion-item style="background-color:beige;" text-wrap *ngFor="let answer of question.answers; let i = index;" style="background:none!important;margin-bottom: 12px;" ng-init="k=j">
+              <!-- <ion-label fixed class='fixedLabel'>{{i+1}}</ion-label> -->
+              <ion-label  text-wrap class="overflow item-text-wrap" class="quizans"> {{answer.answer}}</ion-label>
+              <ion-radio (click)="selectAnswer(answer, question)" [checked]="answer.selected" [disabled]="hasAnswered" id="r1"></ion-radio>
+            </ion-item>
+            <div class="next">
+                <!-- <button (click)="prevS()" ion-button full color="primary" class="btns" style="float:left" *ngIf="j!=0">Prev</button> -->
+                <button (click)="nextS()" [hidden]="nxtBtn" ion-button  color="primary" class="btns" style="float:right">next</button>
+              </div> 
+          </ion-list>
+        </ion-slide>
+     
+        <ion-slide >
+          <div [hidden]="leaveTime2" class="">
+            <div class="dicls">
+              <h3>Total Question 10</h3>
+            </div>
+            <div id="atmpt"  class="dicls"><span>Attempted {{attempt}} </span> </div>
+            <div id="skp" class="dicls">Skip {{skip}}</div>
+            <div id="final" class="dicls">Final Score {{score}}</div>
+            <div id="nonatmpt" class="dicls">Skip {{nonAttempt}}</div>
+          </div> 
+        </ion-slide>
+      </ion-slides>
+</ion-content>

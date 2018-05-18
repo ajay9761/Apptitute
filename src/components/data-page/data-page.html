@@ -1,0 +1,18 @@
+<ion-header>
+    <ion-navbar class="toolbar-background-md toolbar-title-md bar-button-md-default ">
+        <button ion-button menuToggle>
+        <ion-icon style="color:white" name="menu"></ion-icon>
+      </button>
+        <ion-title>Easy Aptitude</ion-title>
+    </ion-navbar>
+</ion-header>
+
+<ion-content  padding style="background: white;">
+    <ion-list *ngFor = "let p of pages" (click)="desc(p)" class=" tabp tabc overflow-visible lang p1 ">
+        <ion-item>
+            <div text-wrap class="list1">
+                Aptitude {{p.id}}
+            </div>
+        </ion-item>        
+    </ion-list>
+</ion-content>

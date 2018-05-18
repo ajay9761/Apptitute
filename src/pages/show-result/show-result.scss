@@ -1,0 +1,53 @@
+.rslMSg{
+    border: 1px solid #b0cdb3;
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+    font-size: 13px;
+    padding: 10px;
+    border-radius: 3px;
+    background-color: #d5ecda;
+    font-weight: bold;
+    color: #1c1d1b;
+    line-height: 20px;
+}
+
+.dicls{
+    // border: 1px solid;
+    width: 77%;
+    margin-left: 12%;
+    border-color: cadetblue;
+}
+
+.sk-fb{
+  text-align: center;
+}
+
+.sk-fb button{
+    border-radius: 50px;
+    width: 75px;
+    height: 75px;
+}
+
+.sk-fb2{
+    text-align: center;
+  }
+  
+  .sk-fb2 button{
+      border-radius: 80px;
+      width: 120px;
+      height: 120px;
+  }
+
+  .ion-logo-facebook:before {
+    content: "\f236";
+    color: #fff;
+    font-size: 30px;
+}
+
+.ion-logo-whatsapp:before {
+    content: "\f2c5";
+    color: #fff;
+    font-size: 30px;
+}
+

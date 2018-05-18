@@ -1,0 +1,2087 @@
+{
+        "id": 1,
+        "questions": [{
+                "id":1,
+                "questionText": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+                "answers": [{
+                        "answer": "120 metres",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "180 metres",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "324 metres",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "150 metres",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"150 metres"
+            },
+            {
+                "id":2,
+                "questionText": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:",
+                "answers": [{
+                        "answer": "45 km/hr",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "50 km/hr",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "54 km/hr",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "55 km/hr",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"50 km/hr"
+            },
+            {
+                "id":3,
+                "questionText": "The length of the bridge, which a train 130 metres long and travelling at 45 km/hr can cross in 30 seconds, is:",
+                "answers": [{
+                        "answer": "200 m",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "225 m",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "245 m",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "250 m",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"245 m"
+            },
+            {
+                "id":4,
+                "questionText": "A sum of money at simple interest amounts to Rs. 815 in 3 years and to Rs. 854 in 4 years. The sum is:",
+                "answers": [{
+                        "answer": "Rs. 650",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Rs. 690",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Rs. 698",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Rs. 700",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"Rs. 698"
+            },
+            {
+                "id":5,
+                "questionText": "How much time will it take for an amount of Rs. 450 to yield Rs. 81 as interest at 4.5% per annum of simple interest?",
+                "answers": [{
+                        "answer": "3.5 years",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "4 years",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "4.5 years",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "5 years",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"4 years"
+            },
+            {
+                "id":6,
+                "questionText": "It was Sunday on Jan 1, 2006. What was the day of the week Jan 1, 2010?",
+                "answers": [{
+                        "answer": "Sunday",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Saturday",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Friday",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Wednesday",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"Friday"
+            },
+            {
+                "id":7,
+                "questionText": "What was the day of the week on 28th May, 2006?",
+                "answers": [{
+                        "answer": "Thursday",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Friday",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Saturday",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Sunday",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"Sunday"
+            },
+            {
+                "id":8,
+                "questionText": "What was the day of the week on 17th June, 1998?",
+                "answers": [{
+                        "answer": "Monday",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Tuesday",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Wednesday",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Thursday",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"Wednesday"
+            },
+            {
+                "id":9,
+                "questionText": "Which one of the following is not a prime number?",
+                "answers": [{
+                        "answer": "31",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "61",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "71",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "91",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"91"
+            },
+            {
+                "id":10,
+                "questionText": "Find the greatest number that will divide 43, 91 and 183 so as to leave the same remainder in each case.",
+                "answers": [{
+                        "answer": "4",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "7",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "9",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "13",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"4"
+            },
+            {
+                "id":11,
+                "questionText": "Express a speed of 36 kmph in meters per second?",
+                "answers": [{
+                        "answer": "10 mps",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "12 mps",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "14 mps",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "17 mps",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"10 mps"
+            },
+            {
+                "id":12,
+                "questionText": "The speed of a train is 90 kmph. What is the distance covered by it in 10 minutes?",
+                "answers": [{
+                        "answer": "15 kmph",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "12 kmph",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "10 kmph",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "5 kmph",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"15 kmph"
+            },
+            {
+                "id":13,
+                "questionText": "A and B complete a work in 6 days. A alone can do it in 10 days. If both together can do the work in how many days?",
+                "answers": [{
+                        "answer": "3.75 days",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "4 days",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "5 days",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "6 days",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"3.75 days"
+            },
+            {
+                "id":14,
+                "questionText": "1: 3 = 1 2/3: x. The value of x is?",
+                "answers": [{
+                        "answer": "1",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "3",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "4",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "5",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"5"
+            },
+            {
+                "id":15,
+                "questionText": "If a: b = 7: 5, b: c = 9: 11, find a: b: c?",
+                "answers": [{
+                        "answer": "63: 14: 55",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "63: 45: 55",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "14: 14: 15",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "7: 14: 15",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"63: 45: 55"
+            },
+            {
+                "id":16,
+                "questionText": "The duplicate ratio of 3:4 is?",
+                "answers": [{
+                        "answer": "4:3",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "6:8",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "9:16",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "3:4",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"9:16"
+            },
+            {
+                "id":17,
+                "questionText": "The sub-duplicate ratio of 1:4 is",
+                "answers": [{
+                        "answer": "1:2",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "2:1",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1:3",
+                        "correct": false,
+                        "selected": false   
+                    },
+                    {
+                        "answer": "1:4",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"1:2"
+            },
+            {
+                "id":18,
+                "questionText": "Ten years ago, P was half of Q's age. If the ratio of their present ages is 3:4, what will be the total of their present ages?",
+                "answers": [{
+                        "answer": "45",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "40",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "35",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "30",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"35"
+            },
+            {
+                "id":19,
+                "questionText": "Father is aged three times more than his son Sunil. After 8 years, he would be two and a half times of Sunil's age. After further 8 years, how many times would he be of Sunil's age?",
+                "answers": [{
+                        "answer": "4 times",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "5 times",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "2 times",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "3 times",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"2 times"
+            },
+            {
+                "id":20,
+                "questionText": "A man is 24 years older than his son. In two years, his age will be twice the age of his son. What is the present age of his son?",
+                "answers": [{
+                        "answer": "23 years",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "22 years",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "21 years",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "20 years",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"21 years"
+            },
+            {
+                "id":21,
+                "questionText": "What day of the week does May 28 2006 fall on",
+                "answers": [{
+                        "answer": "Saturday",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Monday",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Sunday",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Thursday",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"Sunday"
+            },
+            {
+                "id":22,
+                "questionText": "Today is Monday. After 61 days, it will be",
+                "answers": [{
+                        "answer": "Thursday",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Sunday",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Monday",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Saturday",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"Saturday"
+            },
+            {
+                "id":23,
+                "questionText": "Two numbers are in the ratio 2 : 3. If their L.C.M. is 48. what is sum of the numbers?",
+                "answers": [{
+                        "answer": "28",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "40",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "64",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "42",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"40"
+            },
+            {
+                "id":24,
+                "questionText": "What is the greatest number of four digits which is divisible by 15, 25, 40 and 75 ?",
+                "answers": [{
+                        "answer": "9800",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "9600",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "9400",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "9200",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"9600"
+            },
+            {
+                "id":25,
+                "questionText": "Three numbers are in the ratio of 2 : 3 : 4 and their L.C.M. is 240. Their H.C.F. is:",
+                "answers": [{
+                        "answer": "40",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "30",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "20",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "10",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"20"
+            },
+            {
+                "id":26,
+                "questionText": "A train is running at a speed of 40 km/hr and it crosses a post in 18 seconds. What is the length of the train?",
+                "answers": [{
+                        "answer": "190 meters",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "160 meters",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "200 meters",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "120 meters",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"200 meters"
+            },
+            {
+                "id":27,
+                "questionText": "A train, 130 metres long travels at a speed of 45 km/hr crosses a bridge in 30 seconds. The length of the bridge is",
+                "answers": [{
+                        "answer": "270 meters",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "245 meters",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "235 meters",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "220 meters",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"245 meters"
+            },
+            {
+                "id":28,
+                "questionText": "A train has a length of 150 metres. It is passing a man who is moving at 2                 km/hr in the same direction of the train, in 3 seconds. Find out the speed of the train.",
+                "answers": [{
+                        "answer": "182 km/hr",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "180 km/hr",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "152 km/hr",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "169 km/hr",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"182 km/hr"
+            },
+            {
+                "id":29,
+                "questionText": "A train 360 metre long runs with a speed of 45 km/hr. What time will it take to pass a platform of 140 metre long?",
+                "answers": [{
+                        "answer": "38 seconds",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "35 seconds",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "44 seconds",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "40 seconds",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"40 seconds"
+            },
+            {
+                "id":30,
+                "questionText": "A train moves past a post and a platform 264 metre long in 8 seconds and 20 seconds respectively. What is the speed of the train?",
+                "answers": [{
+                        "answer": "79.2 km/hr",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "69 km/hr",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "74 km/hr",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "61 km/hr",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"79.2 km/hr"
+            },
+            {
+                "id":31,
+                "questionText": "A train runs at the speed of 72 kmph and crosses a 250 metre long platform in 26                seconds. What is the length of the train?",
+                "answers": [{
+                        "answer": "270 meter",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "210 meter",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "340 meter",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "130 meter",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"270 meter"
+            },
+            {
+                "id":32,
+                "questionText": " P is able to do a piece of work in 15 days and Q can do the same work in 20 days. If they can work together for 4 days, what is the fraction of work left?",
+                "answers": [{
+                        "answer": "8/15",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "7/15",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "11/15",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "2/11",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"8/15"
+            },
+            {
+                "id":33,
+                "questionText": "A is thrice as good as B in work. A is able to finish a job in 60 days less than B. They can finish the work in - days if they work together.",
+                "answers": [{
+                        "answer": "18 days",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "22 ½ days",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "24 days",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "26 days",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"22 ½ days"
+            },
+            {
+                "id":34,
+                "questionText": "6 men and 8 women can complete a work in 10 days. 26 men and 48 women can finish the same work in 2 days. 15 men and 20 women can do the same work in - days.",
+                "answers": [{
+                        "answer": "4 days",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "6 days",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "2 days",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "8 days",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"4 days"
+            },
+            {
+                "id":35,
+                "questionText": "P works twice as fast as Q. If Q alone can complete a work in 12 days, P and Q can finish the work in --- days",
+                "answers": [{
+                        "answer": "1",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "2",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "3",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "4",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"3"
+            },
+            {
+                "id":36,
+                "questionText": "A person crosses a 600 metre long street in 5 minutes. What is his speed in km per hour?",
+                "answers": [{
+                        "answer": "8.2",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "4.2",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "6.1",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "7.2",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"7.2"
+            },
+            {
+                "id":37,
+                "questionText": "A car traveling with 5/7 of its actual speed covers 42 km in 1 hr 40 min 48 sec. What is the actual speed of the car?",
+                "answers": [{
+                        "answer": "30 Km/hr",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "35 Km/hr",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "25 Km/hr",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "40 Km/hr",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"35 Km/hr"
+            },
+            {
+                "id":38,
+                "questionText": "Two boys starts from the same place walking at the rate of 5 kmph and 5.5 kmph respectively in the same direction. What time will they take to be 8.5 km apart?",
+                "answers": [{
+                        "answer": "17 hr",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "14 hr",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "12 hr",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "19 hr",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"17 hr"
+            },
+            {
+                "id":39,
+                "questionText": "The price of 3 tables and 4 chairs is Rs.3300. With the same money one can buy 2 tables and 10 chairs. If one wants to buy 1 table and 1 chair, how much does he need to pay?",
+                "answers": [{
+                        "answer": "Rs. 940",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Rs. 940",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Rs. 940",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Rs. 940",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"Rs. 940"
+            },
+            {
+                "id":40,
+                "questionText": "A man has some hens and cows. If the number of heads be 48 and the number of feet equals 140, then the number of hens will be",
+                "answers": [{
+                        "answer": "22",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "24",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "26",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "20",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"26"
+            },
+            {
+                "id":41,
+                "questionText": "The probability that a number selected at random from the first 50 natural numbers is a composite number is :",
+                "answers": [{
+                        "answer": "21/25",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "17/25",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "4/25",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "8/25",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"17/25"
+            },
+            {
+                "id":42,
+                "questionText": "A coin is tossed live times. What is the probability that there is at the least one tail?",
+                "answers": [{
+                        "answer": "31/32",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1/16",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1/2",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1/32",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"31/32"
+            },
+            {
+                "id":43,
+                "questionText": "If a number is chosen at random from the set {1, 2, 3, ...., 100}, then the probability that the chosen number is a perfect cube is :",
+                "answers": [{
+                        "answer": "1/25",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1/2",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "4/13",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1/10",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"1/25"
+            },
+            {
+                "id":44,
+                "questionText": "Out of first 20 natural numbers, one number is selected at random. The probability that it is either an even number or a prime number is :",
+                "answers": [{
+                        "answer": "1/2",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "16/19",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "4/5",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "17/20",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"17/20"
+            },
+            {
+                "id":45,
+                "questionText": "If four coins are tossed, the probability of getting two heads and two tails is :",
+                "answers": [{
+                        "answer": "3/8",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "6/11",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "2/5",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "4/5",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"3/8"
+            },
+            {
+                "id":46,
+                "questionText": "If a card is drawn from a well shuffled pack of cards, the probability of drawing a spade or a king is :",
+                "answers": [{
+                        "answer": "19/52",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "17/52",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "5/13",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "4/13",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"4/13"
+            },
+            {
+                "id":47,
+                "questionText": "If six persons sit in a row, then the probability that three particular persons are always together is :",
+                "answers": [{
+                        "answer": "1/20",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "3/10",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1/5",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "4/5",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"1/5"
+            },
+            {
+                "id":48,
+                "questionText": "A bag contains 7 green and 8 white balls. If two balls are drawn simultaneously, the probability that both are of the same colour is :",
+                "answers": [{
+                        "answer": "8/15",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "2/5",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "3/5",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "7/15",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"7/15"
+            },
+            {
+                "id":49,
+                "questionText": "A basket has 5 apples and 4 oranges. Three fruits are picked at random. The probability that at least 2 apples are picked is :",
+                "answers": [{
+                        "answer": "25/42",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "9/20",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "10/23",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "41/42",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"25/42"
+            },
+            {
+                "id":50,
+                "questionText": "Three 6 faced dice are thrown together. The probability that all the three show the same number on them is :",
+                "answers": [{
+                        "answer": "1/216",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1/36",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "5/9",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "5/12",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"1/36"
+            },
+            {
+                "id":51,
+                "questionText": "Three 6 faced dice are thrown together. The probability that no two dice show the same number on them is :",
+                "answers": [{
+                        "answer": "7/12",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "5/9",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1/36",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "5/12",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"5/9"
+            },
+            {
+                "id":52,
+                "questionText": " A box contains nine bulbs out of which 4 are defective. If four bulbs are chosen at random, find the probability that atleast one bulb is good.",
+                "answers": [{
+                        "answer": "6/63",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "2/63",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "125/126",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1/126",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"125/126"
+            },
+            {
+                "id":53,
+                "questionText": "A box contains nine bulbs out of which 4 are defective. If four bulbs are chosen at random, find the probability that exactly three bulbs are good.",
+                "answers": [{
+                        "answer": "20/31",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "20/63",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "5/31",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "6/31",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"20/63"
+            },
+            {
+                "id":54,
+                "questionText": "A box contains 3 blue marbles, 4 red, 6 green marbles and 2 yellow marbles. If four marbles are picked at random, what is the probability that none is blue?",
+                "answers": [{
+                        "answer": "17/91",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "33/91",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "51/91",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "65/91",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"33/91"
+            },
+            {
+                "id":55,
+                "questionText": "A box contains 3 blue marbles, 4 red, 6 green marbles and 2 yellow marbles. If three marbles are picked at random, what is the probability that they are all blue?",
+                "answers": [{
+                        "answer": "1/455",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "2/455",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1/91",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "4/455",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"1/455"
+            },
+            {
+                "id":56,
+                "questionText": "A box contains 3 blue marbles, 4 red, 6 green marbles and 2 yellow marbles. If two marbles are picked at random, what is the probability that they are either blue or yellow?",
+                "answers": [{
+                        "answer": "3/22",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "4/21",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "2/21",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1/14",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"2/21"
+            },
+            {
+                "id":57,
+                "questionText": "A box contains 3 blue marbles, 4 red, 6 green marbles and 2 yellow marbles. If two marbles are drawn at random, what is the probability that at least one is green?",
+                "answers": [{
+                        "answer": "23/35",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "29/35",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "47/70",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "43/70",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"23/35"
+            },
+            {
+                "id":58,
+                "questionText": "A box contains 3 blue marbles, 4 red, 6 green marbles and 2 yellow marbles. If three marbles are drawn what is the probability that one is yellow and two are red?",
+                "answers": [{
+                        "answer": "24/455",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "3/91",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "12/455",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "5/91",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"12/455"
+            },
+            {
+                "id":59,
+                "questionText": "A bag contains five white and four red balls. Two balls are picked at random from the bag. What is the probability that they both are different color?",
+                "answers": [{
+                        "answer": "4/9",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "5/9",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "7/9",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "8/9",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"5/9"
+            },
+            {
+                "id":60,
+                "questionText": "Out of 15 consecutive numbers, 2 are chosen at random. The probability that they are both odds or both primes is :",
+                "answers": [{
+                        "answer": "10/17",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "10/19",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "Cannot be determined",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "11/15",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"Cannot be determined"
+            },
+            {
+                "id":61,
+                "questionText": "What is the probability that a leap year has 53 Sundays and 52 Mondays?",
+                "answers": [{
+                        "answer": "0",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1/7",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "2/7",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "5/7",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"1/7"
+            },
+            {
+                "id":62,
+                "questionText": "10 books are placed at random in a shelf. The probability that a pair of books will always be together is ",
+                "answers": [{
+                        "answer": "1/10",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "9/10",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1/5",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "3/10",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"1/5"
+            },
+            {
+                "id":63,
+                "questionText": "A card is drawn from a pack of 52 cards. The probability of getting a queen of club or a king of heart is:",
+                "answers": [{
+                        "answer": "1/13",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "2/13",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1/26",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1/52",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"1/26"
+            },
+            {
+                "id":64,
+                "questionText": "What are the chances that no two boys are sitting together for a photograph if there are 5 girls and 2 boys?",
+                "answers": [{
+                        "answer": "1/21",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "4/7",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "2/7",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "5/7",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"5/7"
+            },
+            {
+                "id":65,
+                "questionText": "What is probability of drawing two clubs from a well shuffled pack of 52 cards?",
+                "answers": [{
+                        "answer": "13/51",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1/17",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1/26",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "13/17",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"1/17"
+            },
+            {
+                "id":66,
+                "questionText": "In a drawer there are 4 white socks, 3 blue socks and 5 grey socks. Two socks are picked randomly. What is the possibility that both the socks are of same color?",
+                "answers": [{
+                        "answer": "4/11",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "2/33",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "19/66",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"19/66"
+            },
+            {
+                "id":67,
+                "questionText": "What percent of 120 are 90?",
+                "answers": [{
+                        "answer": "25%",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "50%",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "75%",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "33%",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"75%"
+            },
+            {
+                "id":68,
+                "questionText": "If y exceeds x by 20%, then x is less than y by?",
+                "answers": [{
+                        "answer": "16%",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "16 1/3 %",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "16 2/3 %",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "16 3/5 %",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"16 2/3 %"
+            },
+            {
+                "id":69,
+                "questionText": "After decreasing 24% in the price of an article costs Rs.912. Find the actual cost of an article?",
+                "answers": [{
+                        "answer": "1400",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1300",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1200",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "1100",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"1200"
+            },
+            {
+                "id":70,
+                "questionText": "How much 60% of 50 is greater than 40% of 30?",
+                "answers": [{
+                        "answer": "18",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "13",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "15",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "20",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"18"
+            },
+            {
+                "id":71,
+                "questionText": "How much is 80% of 40 is greater than 4/5 of 25?",
+                "answers": [{
+                        "answer": "4",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "6",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "9",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "12",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"12"
+            },
+            {
+                "id":72,
+                "questionText": "40% of a number is more than 20% of 650 by 190. Find the number?",
+                "answers": [{
+                        "answer": "600",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "700",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "800",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "900",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"800"
+            },
+            {
+                "id":73,
+                "questionText": "25% of 30% of 45% is equal to?",
+                "answers": [{
+                        "answer": "0.03375",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "0.3375",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "3.375",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "33.75",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"0.03375"
+            },
+            {
+                "id":74,
+                "questionText": "60% of a number is added to 120, the result is the same number. Find the number?",
+                "answers": [{
+                        "answer": "300",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "200",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "400",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "500",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"300"
+            },
+            {
+                "id":75,
+                "questionText": "85% of a number is added to 24, the result is the same number. Find the number?",
+                "answers": [{
+                        "answer": "150",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "140",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "130",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "160",
+                        "correct": true,
+                        "selected": false
+                    }
+                ],
+                "correct":"160"
+            },
+            {
+                "id":76,
+                "questionText": "40 is subtracted from 60% of a number, the result is 50. Find the number? ",
+                "answers": [{
+                        "answer": "150",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "140",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "130",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "110",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"150"
+            },
+            {
+                "id":77,
+                "questionText": "96% of the population of a village is 23040. The total population of the village is?",
+                "answers": [{
+                        "answer": "32256",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "24000",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "24936",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "25640",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"24000"
+            },
+            {
+                "id":78,
+                "questionText": "If the price has fallen by 10% what percent of its consumption be: increased so that the expenditure may be the same as before?",
+                "answers": [{
+                        "answer": "11%",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "10%",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "11 1/9 %",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "9 1/11 %",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"11 1/9 %"
+            },
+            {
+                "id":79,
+                "questionText": "If y exceeds x by 25%, then x is less than y by?",
+                "answers": [{
+                        "answer": "16%",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "16 1/3 %",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "20%",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "16 3/5 %",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"20%"
+            },
+            {
+                "id":80,
+                "questionText": "The salary of Mr. X is 30% more than that of Mr. Y . Find what percent of Mr. Y’s salary is less than Mr. X’s?",
+                "answers": [{
+                        "answer": "30%",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "25 1/13 %",
+                        "correct": false,
+                        "selected": false
+                    },
+                    {
+                        "answer": "23 1/13 %",
+                        "correct": true,
+                        "selected": false
+                    },
+                    {
+                        "answer": "22 1/13 %",
+                        "correct": false,
+                        "selected": false
+                    }
+                ],
+                "correct":"23 1/13 %"
+            }
+        ]
+    }
+
+
+

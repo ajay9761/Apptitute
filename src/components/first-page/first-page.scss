@@ -1,0 +1,54 @@
+ion-card {
+    display: block;
+    overflow: hidden;
+    // padding-top: 45%;
+    // height: 100%;
+}
+
+
+ion-app.md [padding] .scroll-content {
+    padding: 0px;
+}
+.card-ios{
+    border-radius: 5px;
+}
+
+ion-card img {
+    display: block;
+    width: 100%;
+    border-radius: 5px;
+}
+.er-hd{
+    background:#ffd15c;
+}
+
+.ion-ios-menu:before {
+    content: "\f1c3";
+    color: #1f295c;
+    font-size: 31px;
+}
+
+.toolbar-title{
+    color: #1f295c;
+    font-size: 18px;
+}
+
+.toolbar-background-md {
+    border-color: #1f295c;
+    background: #ffd15c;
+}
+
+.header-md::after,
+.tabs-md[tabsPlacement="top"] > .tabbar::after,
+.footer-md::before,
+.tabs-md[tabsPlacement="bottom"] > .tabbar::before {
+  left: 0;
+  bottom: -5px;
+  background-position: left 0 top -2px;
+  position: absolute;
+  width: 100%;
+  height: 5px;
+  background-image:none !important;
+  background-repeat: repeat-x;
+  content: "";
+}

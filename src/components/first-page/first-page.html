@@ -1,0 +1,45 @@
+<ion-header>
+    <ion-navbar>
+        <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+        <ion-title class="er-hd">Dashboard</ion-title>
+    </ion-navbar>
+</ion-header>
+
+<ion-content padding style="background-color:#fff;">
+    <ion-grid align-self-center>
+        <ion-row responsive-sm>
+            <ion-col>
+                <ion-card (click)="easyData()">
+                    <img src="assets/imgs/easyaptitude.png" />
+                    <!-- <div text-wrap>
+                       EASY APTITUDE
+                    </div> -->
+                </ion-card>                
+            </ion-col>
+        </ion-row>
+
+        <ion-row responsive-sm>
+            <ion-col>
+                <ion-card (click)="medData()">
+                    <img src="assets/imgs/mediumaptitude.png" />
+                    <!-- <div text-wrap>
+                        MEDIUM APTITUDE
+                    </div> -->
+                </ion-card>                
+            </ion-col>
+        </ion-row>
+
+        <ion-row responsive-sm>
+            <ion-col>
+                <ion-card (click)="advData()">
+                    <img src="assets/imgs/advancedmaptitude.png" />
+                    <!-- <div text-wrap>
+                        ADVANCE APTITUDE
+                    </div> -->
+                </ion-card>                
+            </ion-col>
+        </ion-row>
+    </ion-grid>
+</ion-content>

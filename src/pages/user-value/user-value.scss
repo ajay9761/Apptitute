@@ -1,0 +1,63 @@
+.sp{
+    float: right;
+    color: red;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 12px;
+}
+.ht-bt1{
+    margin-top: 40px;
+}
+
+.button-md{
+    background: #1f295c;
+    font-size: 16px;
+    font-weight: 400;
+    width: 130px;
+    line-height: 25px;
+    height: 25px;
+    border-radius: 50px;
+}
+
+.text-input-md {
+    margin: 8px 8px;
+    padding: 0;
+    width: calc(100% - 8px - 8px);
+    height: 35px;
+    line-height: 35px;
+}
+.skt-f{
+ padding:20px;
+}
+
+.skt-f ion-item{
+    border: 1px solid #9d9d9d;
+    padding-left: 0px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+.ht-bt1 button{
+    height: 42px;
+    line-height: 42px;
+    width: 135px;
+}
+
+.item-input .label-md, .item-select .label-md, .item-datetime .label-md {
+    color: #1f295c;
+}
+
+.rt-inp [type='number']{
+    background: #f6f5f4;
+    border-radius: 3px;
+    border: 1px solid #d2d1d0;
+    text-align: center;
+}
+
+.strtCard {
+    padding: 15px;
+    background-color: #1f295c;
+    font-size: 45px;
+    font-weight: bold;
+    color: #ffd15c;
+    border-radius: 8px;
+}

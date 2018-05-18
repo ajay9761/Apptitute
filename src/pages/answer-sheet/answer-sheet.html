@@ -1,0 +1,38 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>Answer Sheet</ion-title>
+    <ion-buttons end>
+      <button ion-button icon-only (click)="cancel()">
+        <ion-icon name="exit"></ion-icon>
+      </button>
+    </ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding class="ant-as">
+  <ion-item  *ngFor="let item of data; let i = index; " >
+
+    <div text-wrap style="margin-bottom: 12px;">
+      <p style="color:#253378;">
+        <b>({{i+1}}) {{item.questionText}}</b>
+      </p>      
+    </div>
+    
+    <div class="r-ins">
+      <p *ngFor ="let op of item.answers">
+        {{op.answer}}
+      </p>
+
+      <p style="margin-top: 10px;">
+        <b>Your Answer: {{correctAns[i]}}</b>
+      </p>
+    </div>
+    
+    <div>
+      <p style="margin-bottom: 10px; color: #689f38; font-weight: 700; /* background: #fff; */ line-height: 10px; padding: 8px; font-size: 16px; letter-spacing: 0.5px; text-align: left;">
+        <b>Correct Answer: {{item.correct}}</b>
+      </p> 
+    </div>
+
+  </ion-item>
+</ion-content>              

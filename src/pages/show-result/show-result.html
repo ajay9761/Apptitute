@@ -1,0 +1,36 @@
+<!-- <ion-header>
+  <ion-navbar >
+      <button ion-button menuToggle>
+      <ion-icon style="color:white" name="menu"></ion-icon>
+    </button>
+      <ion-title>Description</ion-title>
+  </ion-navbar>
+</ion-header> -->
+
+
+<ion-content>
+    <div class="">
+        <div class="rslMSg" >{{text}}</div><br><br>
+      </div>
+
+      <!-- <div class="">
+          <div >{{allData}}</div>
+        </div> -->
+      <br><br>
+      
+      <div class="sk-fb">
+        <button style="background:#3a589b;" ion-button icon-only (click)="facebookShare()" color="primary" clear>
+            <ion-icon  class="share-icon" name="logo-facebook"></ion-icon>
+          </button>
+  
+          <button style="background:#57bb63;" ion-button icon-only (click)="whtsappShare()" color="primary" clear>
+            <ion-icon  class="share-icon" name="logo-whatsapp"></ion-icon>
+          </button>  
+    </div>
+        <!-- <button (click)="restartQuiz()" ion-button full color="primary" class="ql">Quiz List</button><br>  -->
+    <br><br><br><br>    
+    <div class="sk-fb2">
+        <button style="background:#689f38; font-size: 20px; letter-spacing: 1px;" (click)="result()" ion-button class="ql">Result</button>
+        <button style="font-size: 20px; letter-spacing: 1px;" (click)="home()" ion-button  class="ql">Home</button>
+    </div> 
+</ion-content>

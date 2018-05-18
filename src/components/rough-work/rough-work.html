@@ -1,0 +1,19 @@
+  
+  <ion-header>
+      <ion-navbar class="toolbar-background-md toolbar-title-md bar-button-md-default ">
+          <button ion-button menuToggle  (click)="dismissRough()">
+          <ion-icon style="color:white" name="menu"></ion-icon>
+        </button>
+          <ion-title>Your Timer Is Running</ion-title>
+      </ion-navbar>
+  </ion-header>
+  
+  <ion-content>     
+    <ion-row [ngClass]="{'drawing-active': isDrawing}">
+      <ion-col>
+        <signature-pad [options]="signaturePadOptions" (onBeginEvent)="drawStart()" (onEndEvent)="drawComplete()"></signature-pad>
+      </ion-col>
+    </ion-row>
+    <button ion-button full color="danger" (click)="clearPad()">Clear</button>
+  </ion-content>
+  
